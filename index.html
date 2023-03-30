@@ -727,21 +727,21 @@
 
 	$('#open-invitation').click(function (){
 		$('#overlay').addClass('hide-overlay');
-		var audio = new Audio('song.mp3');
+		//var audio = new Audio('song.mp3');
 
 		// add an event listener for when the audio ends
-		audio.addEventListener('ended', function() {
-		    console.log('Audio ended');
-		});
+// 		audio.addEventListener('ended', function() {
+// 		    console.log('Audio ended');
+// 		});
 
 		// add an event listener for when an error occurs
-		audio.addEventListener('error', function() {
-		    console.log('Error occurred');
-		});
+// 		audio.addEventListener('error', function() {
+// 		    console.log('Error occurred');
+// 		});
 
-// play the audio
-audio.play();
-		//playAudio1();
+// // play the audio
+// audio.play();
+		playAudio1();
 		/*yang bagian floating button ada animasinya tapi karena ketutup dulu sama overlay jadinya gak nampak*/
 		/*pengen pas di klik buka undangan baru jalan animasinya*/
 		/*var c = document.getElementsByClassName('right-sidebar');
