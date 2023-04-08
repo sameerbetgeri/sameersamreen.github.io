@@ -1,0 +1,222 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:sameerbetgeri@gmail.com
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20151117T182500Z
+DTEND:20151117T195500Z
+DTSTAMP:20230408T091536Z
+UID:ths4or1t5l038edcv4l5d12ncc@google.com
+CREATED:20151114T203345Z
+LAST-MODIFIED:20151114T203345Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hina's birthday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161029T173000Z
+DTEND:20161030T182500Z
+DTSTAMP:20230408T091536Z
+UID:60f03p31ubr0if63f3364qu6k4@google.com
+CREATED:20151214T144902Z
+LAST-MODIFIED:20151214T144902Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Marriage anniversary
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160327
+DTEND;VALUE=DATE:20160328
+DTSTAMP:20230408T091536Z
+UID:107m02idvdj3u3q9kgf05bosao@google.com
+CREATED:20160320T071818Z
+LAST-MODIFIED:20160320T071818Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Abid's birthday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20181023T153000Z
+DTEND:20181023T160000Z
+DTSTAMP:20230408T091536Z
+UID:cdh62opj6lhm4b9hcpj34b9k75h36bb265i6cb9k6pj30o9icoo3ie9p64@google.com
+CREATED:20181023T125114Z
+DESCRIPTION:Ganesh Travels And Tours-Ganesh Travels
+LAST-MODIFIED:20181023T125114Z
+LOCATION:Near COURT CIRCLE
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bus To Mangaluru
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190124T134500Z
+DTEND:20190124T141500Z
+DTSTAMP:20230408T091536Z
+UID:68s3edj3cooj4b9gc8sj0b9k6gq68bb2coqj2b9hcdhjed316lgjgphkcg@google.com
+CREATED:20190123T115614Z
+DESCRIPTION:Ganesh Travels And Tours-Ganesh Travels
+LAST-MODIFIED:20190123T115614Z
+LOCATION:Near COURT CIRCLE
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bus To Mangaluru
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20190126T143000Z
+DTEND:20190126T150000Z
+DTSTAMP:20230408T091536Z
+UID:cgqjcchh6dijabb26sr30b9k6pijcb9p6pj64b9k6tijgp9g6ti30e33co@google.com
+CREATED:20190125T134406Z
+DESCRIPTION:Ganesh Travels And Tours-Mangalore to Belgaum-Kolhapur-Sangli
+LAST-MODIFIED:20190125T134406Z
+LOCATION:Near Old Bus Stand
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bus To Dharwad
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20191029T160000
+DTEND;TZID=Asia/Kolkata:20191029T170000
+RRULE:FREQ=WEEKLY;UNTIL=20191120T182959Z;BYDAY=TU,TU
+DTSTAMP:20230408T091536Z
+UID:7eva7e3a41hg34bs7tosf5e2c3@google.com
+CREATED:20191028T145453Z
+DESCRIPTION: Attend your class at :- https://webinar.shawacademy.com/en/web
+ inar?registration_id=5db700cefd31ed052ecacd2a&lead_id=5db602ecd4a83d7d9656c
+ b11&from=atc
+LAST-MODIFIED:20191028T145453Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Professional Diploma in Mobile App Development at Shaw Academy
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20191030T160000
+DTEND;TZID=Asia/Kolkata:20191030T170000
+DTSTAMP:20230408T091536Z
+UID:7eva7e3a41hg34bs7tosf5e2c3@google.com
+RECURRENCE-ID;TZID=Asia/Kolkata:20191029T160000
+CREATED:20191028T145453Z
+DESCRIPTION:Attend your class at :- https://webinar.shawacademy.com/en/webi
+ nar?registration_id=5db700cefd31ed052ecacd2a&lead_id=5db602ecd4a83d7d9656cb
+ 11&from=atc
+LAST-MODIFIED:20191029T102632Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Professional Diploma in Mobile App Development at Shaw Academy
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20191129T123000Z
+DTEND:20191129T130000Z
+DTSTAMP:20230408T091536Z
+UID:6hj34cb46coj2b9k65h3eb9k6gqmcb9pcdgjib9hc8pjecb66tgm2pj260@google.com
+CREATED:20191129T104403Z
+DESCRIPTION:A1 Travels
+LAST-MODIFIED:20191129T104403Z
+LOCATION:Tirur- kottakkal road
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bus To Bangalore
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210607T133000Z
+DTEND:20210607T134500Z
+DTSTAMP:20230408T091536Z
+ORGANIZER;CN=interviews.pjksjsq-3zwux7@usprd-ics-gw.hirevue.com:mailto:inte
+ rviews.pjksjsq-3zwux7@usprd-ics-gw.hirevue.com
+UID:963276554a65cf27af4879761cc80ba7@hirevue.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Sa
+ meer betgeri;X-NUM-GUESTS=0:mailto:sameerbetgeri@gmail.com
+CLASS:PRIVATE
+CREATED:20210607T131034Z
+DESCRIPTION:\n\nInterview With Contract Staffing Team\n\nDear SAMEER\,\n\nW
+ e are looking forward to speak to you during your upcoming digital intervie
+ w! Please read on for more information and tips to ensure a successful expe
+ rience.\n\n  Position: Transaction Processing Representative\n  When: Monda
+ y\, Jun 07 7 p.m. - 7:15 p.m. IST\n\n  1. Test your system before interview
+ ing ( https://accenture.hirevue.com/equipmenttest/Pjksjsq-3zwux7/candidate/
+  )\n  2. Read tips for a successful interview ( https://app.hirevue.com/lea
+ rn-more/Pjksjsq-3zwux7/ )\n  3. Start the interview ( https://accenture.hir
+ evue.com/interviews/Pjksjsq-3zwux7/candidate/ )\n\n\nBest regards\,\nContra
+ ct Staffing Team\n\n\nFor technical support\, please visit the HireVue Help
+  Center: https://hirevuesupport.zendesk.com\n\n\nUSING A MOBILE DEVICE?\nAn
+ droid: https://play.google.com/store/apps/details?id=com.hirevue.candidate.
+ generic&referrer=interview_code:Pjksjsq-3zwux7\niOS: https://accenture.hire
+ vue.com/interviews/Pjksjsq-3zwux7/candidate/?redirect=1\nLocated in China? 
+ Click here to download from a local app store.: https://app.hirevue.com/ui/
+ l/#/china-app-stores\n\n\nPlease do not reply to this message. Replies are 
+ routed to an unmonitored mailbox.\n\nInterview Code: Pjksjsq-3zwux7 ( https
+ ://app.hirevue.com/interview-status/#/Pjksjsq-3zwux7/ )\n\nPowered by HireV
+ ue\n
+LAST-MODIFIED:20221220T205234Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Action Required – Live Interview
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20111115T183053Z
+DTEND:20111115T193053Z
+DTSTAMP:20230408T091536Z
+UID:ddrfiq33j05kf87ku3kuep2e8o@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Sameer
+  betgeri;X-NUM-GUESTS=0:mailto:sameerbetgeri@gmail.com
+CREATED:20110921T160854Z
+LAST-MODIFIED:20221220T205237Z
+SEQUENCE:1
+STATUS:TENTATIVE
+SUMMARY:Moinuddin
+TRANSP:OPAQUE
+CATEGORIES:http://schemas.google.com/g/2005#event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230525T054500Z
+DTEND:20230525T064500Z
+DTSTAMP:20230408T091536Z
+UID:2p2l8sl30oabusaual9dl9cpa6@google.com
+CREATED:20230402T203124Z
+DESCRIPTION:Save the date for Sameer Akhtar & Samreen Banu Wedding Ceremony
+LAST-MODIFIED:20230408T091312Z
+LOCATION:AFS Hajra Palace Marriage hall\, F2G3+485\, Koppad keri\, Dharwad\
+ , Karnataka 580008\, India
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sameer Akhtar & Samreen Banu Nikah(Wedding Ceremony)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230527T073000Z
+DTEND:20230527T123000Z
+DTSTAMP:20230408T091536Z
+UID:65a0nj3c34cvv41ijbd3fg2m2f@google.com
+CREATED:20230408T085325Z
+LAST-MODIFIED:20230408T091509Z
+LOCATION:Railway Community Hall\, C2W2+6GG\, Malmaddi\, Dharwad\, Karnataka
+  580001\, India
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Valima (Reception) of Sameer & Samreen
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
